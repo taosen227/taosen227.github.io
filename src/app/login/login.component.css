@@ -1,0 +1,35 @@
+.p-4{
+    padding:4px;;
+}
+.fs-1{
+    font-size:100px;
+}
+.container{
+    border: 0.5px solid black;
+    padding: 50px;
+}
+@media only screen and (max-width: 1140px) {
+    .fs-1{ 
+    font-size: 50px; 
+    }
+    }
+@media only screen and (max-width: 960px) {
+    .fs-1{ 
+    font-size: 50px; 
+    }
+    }
+@media only screen and (max-width: 720px) {
+    .fs-1{ 
+    font-size: 40px; 
+    }
+    }
+@media only screen and (max-width: 540px) {
+    .fs-1{ 
+    font-size: 30px; 
+    }
+    }
+@media only screen and (max-width: 360px) {
+    .fs-1{ 
+    font-size: 15px; 
+    }
+    }
